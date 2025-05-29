@@ -1,12 +1,13 @@
 ---
 title: "PROJECT: Chess"
-date: 2025-05-13 12:00:00 +0000
+date: 2024-10-22 12:00:00 +0000
 categories: [blog, project]
 tags: [chess, java]
 description: A chess engine and application
 ---
 
 # Chess
+[Github](https://github.com/Ademfcan/chess)\
 Over the last couple of months I have been working on a rather interesting project. Building a chess engine and surrounding application from scratch. Today I would like to showcase the project, highlight some features, and share some struggles I have faced along the way
 
 > Please note this project is very much still in progress, and lots of things (especially ui) need some work to be "production ready"
